@@ -1,0 +1,27 @@
+MAYA PATEL
+Data Analyst & AI Enthusiast | Seattle, WA | maya.patel@example.com
+
+PROFESSIONAL SUMMARY
+Data Analyst with 2+ years experience extracting actionable business insights from complex relational datasets using SQL and Python. Passionate about machine learning algorithms and predictive analytics.
+
+TECHNICAL PROFICIENCIES
+- Programming: Python, SQL
+- Data Analysis: Pandas, NumPy, Excel
+- Visualization & BI: Tableau, PowerBI
+- Version Control: Git
+- Core Strengths: Analytical Thinking, Problem Solving, Communication, Teamwork
+
+WORK EXPERIENCE
+Data Analyst | Vantage Global Data | 2023 - Present
+- Extracted and transformed large transactional datasets using PostgreSQL queries and Python scripts.
+- Developed automated ETL reports in Pandas reducing monthly reporting time by 15 hours.
+- Collaborated with business intelligence teams to visualize customer retention metrics.
+- Applied exploratory data analysis (EDA) to identify user attrition trends.
+
+Associate Analyst | Quantix Metrics | 2022 - 2023
+- Executed SQL queries and maintained database integrity checks in MySQL.
+- Built interactive dashboards and communicated key findings to executive leadership.
+
+EDUCATION & CERTIFICATIONS
+B.S. in Applied Mathematics | University of Washington | 2022
+Python for Data Science Specialization

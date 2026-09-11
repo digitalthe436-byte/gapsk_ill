@@ -1,0 +1,26 @@
+ALEX CHEN
+Frontend Software Engineer | San Francisco, CA | alex.chen@example.com
+
+PROFESSIONAL SUMMARY
+Dynamic Frontend Developer with 3+ years of experience building modern, accessible, and high-performance web applications using React, JavaScript, and Tailwind CSS. Proven track record of improving user engagement and page load metrics.
+
+CORE SKILLS
+- Languages: JavaScript (ES6+), HTML5/CSS3, SQL (Basic)
+- Frontend: React, Redux, Tailwind CSS, WebSockets
+- Version Control & Tools: Git, GitHub, Unit Testing (Jest)
+- Soft Skills: Problem Solving, Cross-functional Collaboration, Communication
+
+PROFESSIONAL EXPERIENCE
+Frontend Engineer | TechSphere Innovations | 2023 - Present
+- Architected responsive Single Page Applications in React serving 250,000 monthly active users.
+- Migrated legacy CSS to Tailwind CSS, reducing stylesheet bundle size by 42%.
+- Integrated real-time notifications via WebSockets with optimized client-side state caching.
+- Collaborated with UX designers and backend engineers in bi-weekly Agile/Scrum sprints.
+
+Junior Web Developer | PixelCraft Studio | 2021 - 2023
+- Built client websites using modern JavaScript, HTML5, CSS3, and component styling.
+- Conducted unit testing with Jest achieving 85% component test coverage.
+- Managed branching, peer code reviews, and releases using Git.
+
+EDUCATION
+B.S. in Computer Science | University of California | 2021

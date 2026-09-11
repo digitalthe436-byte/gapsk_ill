@@ -1,0 +1,23 @@
+JORDAN RIVERA
+Backend Software Engineer | Austin, TX | jordan.rivera@example.com
+
+PROFESSIONAL SUMMARY
+Reliable Backend Engineer with 3 years experience building RESTful web services in Python and Django. Experienced with relational database design, Docker containerization, and Linux server environments.
+
+CORE COMPETENCIES
+- Languages: Python, Bash/Shell, SQL
+- Frameworks: Django, Flask, REST APIs
+- Databases: PostgreSQL, Redis
+- Infrastructure: Docker, Linux, Git
+- Methodologies: Agile/Scrum, Unit Testing, Problem Solving
+
+EXPERIENCE
+Backend Engineer | Apex Cloud Solutions | 2022 - Present
+- Designed scalable REST APIs in Python/Django backed by PostgreSQL and Redis caching.
+- Containerized development environments using Docker and Docker Compose.
+- Maintained production Linux Ubuntu virtual machines and automated cron jobs with Bash scripts.
+- Participated in Agile/Scrum standups and conducted peer code reviews on Git.
+
+Junior Developer | Nexus Systems | 2021 - 2022
+- Maintained database migrations and written automated unit tests for web APIs.
+- Monitored server uptime and debugged application logs on Linux systems.
